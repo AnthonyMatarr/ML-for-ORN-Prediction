@@ -32,7 +32,7 @@ conda activate orn_proj
 ```
 4. (Optional) If you encounter issues with pip-installed packages, install them manually:
 ```
-pip install simpleNomo dcurves keras-tuner scipy==1.13.1 openpyxl
+pip install simpleNomo dcurves keras-tuner scipy==1.13.1
 ```
 **Note:** Scipy v1.13.1 is outdated but is required for the dcurves package. 
 
